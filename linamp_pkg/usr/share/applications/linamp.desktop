@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Linamp
+Comment=Basit ve hafif bir müzik çalar
+Exec=python3 /usr/share/linamp/linamp.py
+Icon=/usr/share/pixmaps/linamp.png
+Terminal=false
+Type=Application
+Categories=AudioVideo;Player;
+
