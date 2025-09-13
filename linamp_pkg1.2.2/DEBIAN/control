@@ -1,0 +1,10 @@
+Package: linamp
+Version: 1.2.2
+Section: multimedia
+Priority: optional
+Architecture: all
+Depends: python3, python3-pyqt5, python3-pyqt5.qtmultimedia, python3-mutagen
+Maintainer: A. Serhat KILIÇOĞLU <github.com/shampuan>
+Description: LinAMP, basit ve hafif bir müzik çalar uygulamasıdır. 
+ Bu program küçük boyutu ve minimum bağımlılık ihtiyacı sayesinde ideal bir programdır.
+
